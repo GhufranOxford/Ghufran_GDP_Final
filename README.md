@@ -1,6 +1,6 @@
 # GDP and Life Expectancy Analysis 🌍📊
 
-**Author:** Maitham Al-Shamery  
+**Author:** Ghufran Al-Azzawi  
 **Course:** Data Scientist – Codecademy  
 **Data Sources:** World Health Organization (WHO) & World Bank  
 
